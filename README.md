@@ -2,10 +2,14 @@
 
 #### Welcome! I’m curryently learning some new shid
 
-#### Fun fact: If u write fun fakt u read it xD
+#### Fun fact: If u write fun fakt u read it 🙃
 
 #### I’m looking for help with ... 
-##### ...
-##### ..
-##### .
-###### actually everything
+
+- [ ] Create Skript´s 📄
+- [ ] Update npm 📚
+- [ ] Save Files 💾
+- [ ] Launch cmd 🎰
+- [ ] Restart Pc 🖥
+- [ ] Sleeping 👻
+- [x] actually everything
